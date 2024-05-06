@@ -3,7 +3,7 @@
 
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [maxisbarrionuevo@gmail.com](mailto:maxisbarrionuevo@gmail.com)
-* ⚡ All of my projects are available at <a href="https://maximilianobarrionuevo.netlify.app/" target="_blank" rel="noreferrer">https://maximilianobarrionuevo.netlify.app/</a>
+* ⚡ All of my projects are available at <a href="https://maximiliano-barrionuevo.vercel.app/" target="_blank" rel="noreferrer">https://maximiliano-barrionuevo.vercel.app//</a>
 
 ### Skills
 
